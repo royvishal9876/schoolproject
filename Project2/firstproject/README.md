@@ -30,4 +30,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![WhatsApp Image 2024-06-27 at 19 34 05_dc9d679d](https://github.com/royvishal9876/schoolproject/assets/173386096/78f9c799-c0be-44ab-b44b-528c4708505c)
 
+![WhatsApp Image 2024-06-27 at 19 34 05_c8a89411](https://github.com/royvishal9876/schoolproject/assets/173386096/18473a92-e811-46b4-abb9-8d479e409ca6)
 
